@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Vocabulaire avec Renardo — Support</title>
+  <meta name="description" content="Support and privacy policy of Vocabulaire avec Renardo, a language-learning app for children aged 6 to 8, in 13 languages.">
+  <link rel="canonical" href="https://nicolasdumontparis.github.io/vocabulaire-support/">
+  <link rel="icon" href="favicon.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    // Opens the page in the browser's language; "?choose" keeps this chooser.
+    (function () {
+      if (location.search.indexOf("choose") >= 0) return;
+      var codes = ["en", "fr", "es", "pt", "zh-hans", "hi", "ar", "ru", "de", "ja", "ko", "it", "id"];
+      var wanted = (navigator.languages || [navigator.language || "en"]);
+      for (var i = 0; i < wanted.length; i++) {
+        var w = String(wanted[i]).toLowerCase();
+        var code = /^zh-(hans|cn|sg|my)/.test(w) || w === "zh" ? "zh-hans" : w.split("-")[0];
+        if (codes.indexOf(code) >= 0) { location.replace(code + "/"); return; }
+      }
+    })();
+  </script>
+</head>
+<body>
+<div class="shell">
+  <main class="chooser">
+    <section class="hero">
+      <img src="icon.jpg" alt="" width="168" height="168">
+      <div>
+        <h1>Vocabulaire avec Renardo</h1>
+        <p class="lede">Support · Assistance · Privacy · Confidentialité</p>
+      </div>
+    </section>
+    <ul class="languages">
+      <li><a href="en/" hreflang="en" lang="en" dir="ltr"><strong>English</strong><span>Vocabulary with Renardo</span></a></li>
+      <li><a href="fr/" hreflang="fr" lang="fr" dir="ltr"><strong>Français</strong><span>Vocabulaire avec Renardo</span></a></li>
+      <li><a href="es/" hreflang="es" lang="es" dir="ltr"><strong>Español</strong><span>Vocabulario con Renardo</span></a></li>
+      <li><a href="pt/" hreflang="pt-BR" lang="pt-BR" dir="ltr"><strong>Português</strong><span>Vocabulário com Renardo</span></a></li>
+      <li><a href="zh-hans/" hreflang="zh-Hans" lang="zh-Hans" dir="ltr"><strong>简体中文</strong><span>和雷纳多学单词</span></a></li>
+      <li><a href="hi/" hreflang="hi" lang="hi" dir="ltr"><strong>हिन्दी</strong><span>रेनार्डो के साथ शब्दावली</span></a></li>
+      <li><a href="ar/" hreflang="ar" lang="ar" dir="rtl"><strong>العربية</strong><span>مفردات مع ريناردو</span></a></li>
+      <li><a href="ru/" hreflang="ru" lang="ru" dir="ltr"><strong>Русский</strong><span>Учим слова с Ренардо</span></a></li>
+      <li><a href="de/" hreflang="de" lang="de" dir="ltr"><strong>Deutsch</strong><span>Vokabeln mit Renardo</span></a></li>
+      <li><a href="ja/" hreflang="ja" lang="ja" dir="ltr"><strong>日本語</strong><span>レナルドと学ぶことば</span></a></li>
+      <li><a href="ko/" hreflang="ko" lang="ko" dir="ltr"><strong>한국어</strong><span>레나르도와 단어 배우기</span></a></li>
+      <li><a href="it/" hreflang="it" lang="it" dir="ltr"><strong>Italiano</strong><span>Vocabolario con Renardo</span></a></li>
+      <li><a href="id/" hreflang="id" lang="id" dir="ltr"><strong>Bahasa Indonesia</strong><span>Kosakata bersama Renardo</span></a></li>
+    </ul>
+  </main>
+  <footer><p>© 2026 Nicolas Dumont · <a href="mailto:nicolas@sent.com">nicolas@sent.com</a></p></footer>
+</div>
+</body>
+</html>
