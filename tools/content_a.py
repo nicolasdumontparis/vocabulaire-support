@@ -7,7 +7,7 @@ L["en"] = dict(
     name="Vocabulary with Renardo", tagline="Learn languages through play",
     support="Support", privacy="Privacy", language="Language",
     about_h="About the app",
-    about="Renardo, a curious little fox, helps children aged 6 to 8 learn their first words in a new language. Everything is spoken aloud with natural recorded voices, so no reading is needed, and every answer takes a single tap. Explanations are spoken in the child’s own language.",
+    about="Renardo, a curious little fox, helps children aged 6 to 8 learn their first words in a new language. Everything is spoken aloud, so no reading is needed, and every answer takes a single tap. Explanations are spoken in the child’s own language.",
     facts=["13 languages to learn", "300 words, 30 adventures", "100 friends to meet", "No ads, no data collected"],
     faq_h="Frequently asked questions",
     faq=[
@@ -60,7 +60,7 @@ L["fr"] = dict(
     name="Vocabulaire avec Renardo", tagline="Apprendre une langue en jouant",
     support="Assistance", privacy="Confidentialité", language="Langue",
     about_h="L’application",
-    about="Renardo, un petit renard curieux, aide les enfants de 6 à 8 ans à découvrir leurs premiers mots dans une nouvelle langue. Tout est dit à voix haute, avec des voix enregistrées naturelles : pas besoin de savoir lire, et chaque réponse se donne d’un simple toucher. Les explications sont dites dans la langue de l’enfant.",
+    about="Renardo, un petit renard curieux, aide les enfants de 6 à 8 ans à découvrir leurs premiers mots dans une nouvelle langue. Tout est dit à voix haute : pas besoin de savoir lire, et chaque réponse se donne d’un simple toucher. Les explications sont dites dans la langue de l’enfant.",
     facts=["13 langues à apprendre", "300 mots, 30 aventures", "100 amis à rencontrer", "Sans publicité, aucune donnée collectée"],
     faq_h="Questions fréquentes",
     faq=[
@@ -113,7 +113,7 @@ L["es"] = dict(
     name="Vocabulario con Renardo", tagline="Aprende idiomas jugando",
     support="Ayuda", privacy="Privacidad", language="Idioma",
     about_h="La app",
-    about="Renardo, un pequeño zorro curioso, ayuda a los niños de 6 a 8 años a aprender sus primeras palabras en un nuevo idioma. Todo se dice en voz alta, con voces grabadas naturales: no hace falta saber leer y cada respuesta se da con un solo toque. Las explicaciones se oyen en el idioma del niño.",
+    about="Renardo, un pequeño zorro curioso, ayuda a los niños de 6 a 8 años a aprender sus primeras palabras en un nuevo idioma. Todo se dice en voz alta: no hace falta saber leer y cada respuesta se da con un solo toque. Las explicaciones se oyen en el idioma del niño.",
     facts=["13 idiomas para aprender", "300 palabras, 30 aventuras", "100 amigos que conocer", "Sin anuncios, sin recopilar datos"],
     faq_h="Preguntas frecuentes",
     faq=[
@@ -166,7 +166,7 @@ L["pt"] = dict(
     name="Vocabulário com Renardo", tagline="Aprenda idiomas brincando",
     support="Suporte", privacy="Privacidade", language="Idioma",
     about_h="O app",
-    about="Renardo, uma pequena raposa curiosa, ajuda crianças de 6 a 8 anos a aprender as primeiras palavras em um novo idioma. Tudo é falado em voz alta, com vozes gravadas naturais: não é preciso saber ler, e cada resposta se dá com um só toque. As explicações são faladas no idioma da criança.",
+    about="Renardo, uma pequena raposa curiosa, ajuda crianças de 6 a 8 anos a aprender as primeiras palavras em um novo idioma. Tudo é falado em voz alta: não é preciso saber ler, e cada resposta se dá com um só toque. As explicações são faladas no idioma da criança.",
     facts=["13 idiomas para aprender", "300 palavras, 30 aventuras", "100 amigos para conhecer", "Sem anúncios, nenhum dado coletado"],
     faq_h="Perguntas frequentes",
     faq=[
@@ -219,7 +219,7 @@ L["de"] = dict(
     name="Vokabeln mit Renardo", tagline="Sprachen spielend lernen",
     support="Support", privacy="Datenschutz", language="Sprache",
     about_h="Über die App",
-    about="Renardo, ein neugieriger kleiner Fuchs, hilft Kindern von 6 bis 8 Jahren, die ersten Wörter in einer neuen Sprache zu lernen. Alles wird mit natürlichen, aufgenommenen Stimmen vorgesprochen: Lesen ist nicht nötig, und jede Antwort braucht nur ein Tippen. Erklärungen hört das Kind in seiner eigenen Sprache.",
+    about="Renardo, ein neugieriger kleiner Fuchs, hilft Kindern von 6 bis 8 Jahren, die ersten Wörter in einer neuen Sprache zu lernen. Alles wird vorgesprochen: Lesen ist nicht nötig, und jede Antwort braucht nur ein Tippen. Erklärungen hört das Kind in seiner eigenen Sprache.",
     facts=["13 Sprachen zum Lernen", "300 Wörter, 30 Abenteuer", "100 Freunde zum Kennenlernen", "Keine Werbung, keine Datenerfassung"],
     faq_h="Häufige Fragen",
     faq=[
@@ -272,7 +272,7 @@ L["it"] = dict(
     name="Vocabolario con Renardo", tagline="Impara le lingue giocando",
     support="Assistenza", privacy="Privacy", language="Lingua",
     about_h="L’app",
-    about="Renardo, una piccola volpe curiosa, aiuta i bambini dai 6 agli 8 anni a imparare le prime parole in una nuova lingua. Tutto viene detto ad alta voce, con voci registrate naturali: non serve saper leggere e ogni risposta si dà con un solo tocco. Le spiegazioni arrivano nella lingua del bambino.",
+    about="Renardo, una piccola volpe curiosa, aiuta i bambini dai 6 agli 8 anni a imparare le prime parole in una nuova lingua. Tutto viene detto ad alta voce: non serve saper leggere e ogni risposta si dà con un solo tocco. Le spiegazioni arrivano nella lingua del bambino.",
     facts=["13 lingue da imparare", "300 parole, 30 avventure", "100 amici da incontrare", "Niente pubblicità, nessun dato raccolto"],
     faq_h="Domande frequenti",
     faq=[
